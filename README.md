@@ -1,7 +1,7 @@
 # Ios-7-Watch-Face-Recreation-Mi-Watch-5
 <h1>Ios 7 Watch Face Recreation for Mi Watch 5</h1> 
 <h1>This repository includes apples ios 7 wallpaers that were recreated as Watch Faces</h1?
-<h2>These are compatible with the Mi Watch Band 5 and AmazFit band 5 fitness watches</h2>
+<h3>These are compatible with the Mi Watch Band 5 and AmazFit band 5 fitness watches</h3>
 
 <h1>Ios 7 Watch Face Previews</h1>
 
